@@ -1,17 +1,14 @@
-# OfferGuard 🛡️
+# Verification 🛡️
 
-A professional web application that verifies the authenticity of offer letters, internship letters, and call letters using advanced NLP and document analysis.
+A web application that verifies the offer letters, internship letters, and call letters using document analysis.
 
 ## Features
-
 - 📄 Document Upload & Text Analysis
 - 🔍 Letter Type Classification (Offer/Internship/Call)
 - ✅ Legitimacy Verification
 - 🏢 Company Information Validation
 - 📊 Detailed Analysis Reports
 - 🔒 Secure Document Handling
-
-## Tech Stack
 
 ### Frontend
 - React.js
@@ -27,7 +24,6 @@ A professional web application that verifies the authenticity of offer letters, 
 - WeasyPrint (PDF report generation)
 
 ## Project Structure
-
 ```
 offerguard/
 ├── backend/
@@ -44,8 +40,6 @@ offerguard/
 │   └── package.json
 └── README.md
 ```
-
-## Setup Instructions
 
 ### Backend Setup
 1. Create a virtual environment:
@@ -78,11 +72,3 @@ offerguard/
 Once the backend server is running, visit:
 - API Documentation: http://localhost:8000/docs
 - Alternative Documentation: http://localhost:8000/redoc
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
