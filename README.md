@@ -1,4 +1,4 @@
-# Verification 🛡️
+# OfferVerification 🛡️
 
 A web application that verifies the offer letters, internship letters, and call letters using document analysis.
 
